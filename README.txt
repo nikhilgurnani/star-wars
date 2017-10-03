@@ -1,3 +1,5 @@
+**NOTE: Please use the Database Schema.sql file to create a DB Schema before running the system.
+
 -----STAR WARS PROBLEM IMPLEMENTATION README-----
 "Hello There."
 This is an introductory file that will tell you how and what of the system. This system contains 3 main files:
